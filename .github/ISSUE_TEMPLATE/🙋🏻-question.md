@@ -1,5 +1,5 @@
 ---
-name: "\U0001F64B\U0001F3FB Question?"
+name: "\U0001F64B\U0001F3FB Question"
 about: Have a question you'd like to ask?
 title: "[QUESTION] Describe your question"
 labels: question
