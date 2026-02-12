@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Claude Code Support
+    url: https://github.com/anthropics/claude-code
+    about: Please submit general Claude Code inquires here.
